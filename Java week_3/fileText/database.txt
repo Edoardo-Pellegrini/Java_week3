@@ -1,0 +1,1 @@
+Book ISBN: 8804512156, title: Poeta al comando, year: 2003, pages: 256, author: Alessandro Barbero, genre: Storico-Medievale. Book ISBN: 0747532699, title: Harry Potter and the Philosopher's Stone, year: 1997, pages: 223, author: J. K. Rowling, genre: Fantasy. WEEKLY Magazine, ISBN: 9780847833580, title: Time, year: 2010, pages: 150. 
